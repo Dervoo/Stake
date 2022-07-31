@@ -1,0 +1,1 @@
+npm install @typechain/ethers-v5 @typechain/hardhat @types/chai @types/node @types/mocha ts-node typechain typescript

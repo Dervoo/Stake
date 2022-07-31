@@ -1,0 +1,5 @@
+node_modules
+.secret.json
+package-lock.json
+.env
+artifacts
